@@ -18,9 +18,9 @@ I'm a Software Engineer with a focus on building modern web applications using:
 ---
 
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/shakeel-abbas-khan-7ba78520b/)
-- [Email](shakeelabbaskhan4455@gmail.com)
-- [Portfolio](https://shakeel-portfolio-blue.vercel.app/)
+<a href="shakeelabbaskhan4455@gmail.com" target="_blank">Email</a> |
+<a href="https://www.linkedin.com/in/shakeel-abbas-khan-7ba78520b/" target="_blank">LinkedIn</a> |
+<a href="https://shakeel-portfolio-blue.vercel.app/" target="_blank">Portfolio</a>
 
 ---
 
